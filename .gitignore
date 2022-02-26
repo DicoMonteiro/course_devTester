@@ -1,0 +1,29 @@
+.DS_Store
+/backend/node_modules
+/backend/logs
+/frontend/node_modules
+/frontend/dist
+/frontend/mochawesome-report
+
+/frontend/tests/e2e/videos/
+/frontend/tests/e2e/screenshots/
+
+
+# local env files
+/frontend/.env.local
+/frontend/.env.*.local
+
+# Log files
+/frontend/npm-debug.log*
+/frontend/yarn-debug.log*
+/frontend/yarn-error.log*
+/frontend/pnpm-debug.log*
+
+# Editor directories and files
+/frontend/.idea
+/frontend/.vscode
+/frontend//frontend/*.suo
+/frontend/*.ntvs*
+/frontend/*.njsproj
+/frontend/*.sln
+/frontend/*.sw?
